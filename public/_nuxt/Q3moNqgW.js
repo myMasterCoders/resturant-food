@@ -1,0 +1,1 @@
+import{o as _,c as a,b as t,w as c,a as s,a3 as p,a4 as u,a5 as m}from"./CEHpqohg.js";const r=s("h1",{class:"text-[25px]"},"پروفایل",-1),f={__name:"profile",setup(x){return(l,d)=>{const o=p,e=u,n=m;return _(),a("div",null,[r,t(n,{name:"custom"},{default:c(()=>[t(o),t(e)]),_:1})])}}};export{f as default};
